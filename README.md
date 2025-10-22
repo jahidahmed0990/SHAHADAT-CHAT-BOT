@@ -7,13 +7,13 @@
 
 
 Assalamualaikum Everyone!  
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to My AHMED JAHID CHAT BOT Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+![Box-shaped Image](https://i.imgur.com/NVUECku.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+  <span style="font-size: 24px; font-weight: bold;">AHMED JAHID CHAT BOT</span><br>
+  <span> Develop By TOR ABBU </span>
 </p>
 
 
@@ -142,9 +142,9 @@ ___
 **Location:** **`KHAGRACHARI, BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message Me](https://m.me/100001039692046)**  
+- **WhatsApp:** **[01781 Tmc](https://www.facebook.com/share/1BrZiBX3ug/)**  
+- **Facebook:** **[Facebook ID](https://facebook.com)**  
+- **Messenger:** **[Message Me](https://www.facebook.com/share/1BrZiBX3ug/)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
